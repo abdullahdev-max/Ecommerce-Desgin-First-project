@@ -1,0 +1,232 @@
+@font-face {
+    font-family: 'popins';
+    src: url(../Poppins/Poppins-Light.ttf);
+    
+}
+@font-face {
+    font-family: 'Popinsbold';
+    src: url(../Poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: 'Popinssemibold';
+    src: url(../Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: 'Popinsmedium';
+    src: url(../Poppins/Poppins-Medium.ttf);
+}
+.bg_color{
+
+    background-image: url(../images/scandinavian-interior-mockup-wall-decal-background\ 1.png);
+    background-size: cover;
+    height: 40rem;
+}
+.divv{
+    background-color:rgba(255, 243, 227, 1);
+    width: 450px;
+    height: 320px;
+    position: relative;
+    left: 41rem;
+    top: 14rem;
+}
+
+.divtxt2{
+    font-size: 3rem;
+    color: rgba(184, 142, 47, 1);
+    font-weight: bold;
+}
+.navtext{
+    font-weight:400;
+    margin-right: 20rem;
+    
+}
+.txt{
+    margin-left: 3rem;
+}
+.btn_war{
+    border: 1px; 
+    background-color: rgba(184, 142, 47, 1);
+    width: 120px ;
+    height: 40px;
+}
+.icons{
+    font-weight: 700;
+}
+.text1{
+    font-size:1.5rem ;
+    font-weight: 600;
+    font-family: 'popins';
+}
+.img1{
+    width: 24rem;
+    height: 30rem;
+}
+.img2{
+    width: 24rem;
+    height: 30rem;
+    
+}
+.img3{
+    width: 24rem;
+    height: 30rem;
+    
+}
+.textsize{
+    font-size: 1.2rem;
+    font-family: 'popins';
+    font-weight:600 ;
+}
+.textsize1{
+    font-size: 1.2rem;
+    font-family: 'popins';
+    font-weight:600 ;
+    margin-left: 4rem;
+}
+.pro1{
+    font-size: 2rem;
+    font-family: 'popins';
+    
+    font-family: 'Popinsbold';
+}
+.dsize1{
+    width: 270px;
+    height: 446px;
+    
+}
+.dsize2{
+    width: 270px;
+    height: 446px;
+}
+.dsize3{
+    width: 270px;
+    height: 446px;
+}
+.dsize4{
+    width: 270px;
+    height: 446px;
+    right: 1.5rem;
+}
+.pricetext{
+    font-family: 'Popinssemibold';
+}
+.prictx{
+    font-family: 'popins';
+}
+.levi{
+    font-family: 'Popinssemibold';
+}
+.sylt{
+    font-family: 'Popinssemibold';
+}
+.LOlit{
+    font-family: 'Popinssemibold';
+}
+.potty{
+    font-family: 'Popinssemibold';
+}
+.btn-menu{
+    border: 1rem;
+    width: 245px;
+}
+.textdiv{
+    font-family: 'Popinsbold';
+    font-size: 2.5rem;
+}
+.textdivv2{
+    position: relative;
+    top: 7rem;
+    left: 2rem;
+}
+
+.imgg{
+    width: 300px;
+    height: 200px;
+}
+.btn_2{
+    border: 1px;
+    background-color: rgba(184, 142, 47, 1);
+}
+.imgbed{
+    height: 500px;
+    margin-left: 6.5rem;
+    
+}
+.imgbed2{
+    height: 400px;
+}
+.bg_color1{
+    background-color: rgba(252, 248, 243, 1);
+    height: 600px;
+}
+.textfur{
+    font-size: 2rem;
+    font-family: 'Popinsbold';
+}
+.textset{
+    font-family: 'Popinssemibold';
+    font-size: 15px;
+}
+.imglaptop{
+    width: 400px;
+    margin-top: 7rem;
+
+}
+.imgchair{
+    width: 145px;
+    
+}
+.imgvas{
+    width: 330px;
+}
+.imgdinein{
+   position: relative;
+   top: 11rem;
+   right: 1.5rem;
+  
+   width: 220px;
+}
+.img11{
+   width: 250px;
+    
+    
+}
+.img22{
+width: 200px;
+}
+.fur{
+    color: black;
+    font-size: 2rem;
+    font-family: 'Popinsbold';
+}
+.footertxt2{
+    font-family: 'Popinsmedium';
+}
+.footertxt3{
+    font-family: 'Popinsmedium';
+}
+.footerdiv{
+    height: 250px;
+}
+.bg_img{
+    background-image: url(../images/Rectangle\ 1.png);
+    background-size: cover;
+    height: 300px;
+}
+.shptext{
+    font-family: 'Popinsmedium';
+    font-size: 4rem;
+}
+.shoptxt{
+    position: relative;
+    top: 5rem;
+}
+.hmtxt{
+    font-family: 'Popinsmedium';
+}
+.spantext{
+    font-family: 'popins';
+}
+  
+
+
+
